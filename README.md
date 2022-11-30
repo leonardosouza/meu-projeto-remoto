@@ -17,3 +17,9 @@ $ git status
 ```bash
 $ git add <NOMEDOARQUIVO>
 ```
+
+- Para gravar as mudanças:
+
+```bash
+$ git commit -m "MESSAGE"
+```
